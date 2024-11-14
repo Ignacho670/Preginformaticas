@@ -195,4 +195,3 @@ const questions = [
    { question: "¿Qué es la autenticación biométrica?", options: ["Una técnica de cifrado de datos", "Un sistema que usa rasgos físicos para verificar identidad", "Un tipo de malware", "Un antivirus avanzado"], correct: 1 },
    { question: "¿Qué es el cifrado de extremo a extremo?", options: ["Un  proceso de cifrado donde solo emisor y receptor pueden leer el mensaje", "Un método para crear contraseñas seguras", "Una forma de backup", "Un proceso para eliminar malware"], correct: 0 }
 ];
-
